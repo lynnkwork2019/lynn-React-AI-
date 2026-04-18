@@ -1,0 +1,6 @@
+{
+  "name": "Neon Beats & Slither",
+  "description": "A dark neon music player and snake game hybrid. Play snake to the rhythm of AI-generated tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
